@@ -1,0 +1,13 @@
+{
+  "name": "doctor-codebase",
+  "owner": {
+    "name": "berzileux"
+  },
+  "plugins": [
+    {
+      "name": "doctor-codebase",
+      "source": "./",
+      "description": "Maps how an unfamiliar codebase works: archetype, I/O boundaries, vertical slices, smells, risk profile. Derived from quicksilversurfer/codebase-explorer."
+    }
+  ]
+}

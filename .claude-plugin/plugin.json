@@ -1,0 +1,9 @@
+{
+  "name": "doctor-codebase",
+  "description": "Maps how an unfamiliar codebase works: archetype, I/O boundaries, vertical slices, smells, risk profile. Derived from quicksilversurfer/codebase-explorer.",
+  "version": "0.1.0",
+  "author": {
+    "name": "berzileux"
+  },
+  "repository": "https://github.com/berzileux/doctor-codebase"
+}
