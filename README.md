@@ -13,6 +13,16 @@ Run inside a Claude Code session, as two separate prompts:
 
     /plugin marketplace add berzileux/doctor-codebase
     /plugin install doctor-codebase@doctor-codebase
+    
+Uninstall
+
+    /plugin uninstall doctor-codebase@doctor-codebase
+    /plugin marketplace remove doctor-codebase
+    
+Disable the plugin, enable it when needed
+
+    /plugin disable doctor-codebase@doctor-codebase
+    /plugin enable doctor-codebase@doctor-codebase
 
 ## Use
 
